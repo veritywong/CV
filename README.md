@@ -1,6 +1,10 @@
 ## Verity Wong
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am an aspirational software developer, artist, ceramicist; a maker with a passion for learning how things work and using this knowledge to create through collaboration. 
+
+I have spent the past 10 years building my career in the arts, through teaching, workshop facilitation, leading community projects, teaching myself to become a professional ceramicist and co-founding a successful art collective. 
+
+I am ready for new challenges and eager to learn about tech, which is why I have enrolled in the Makers course. I am excited to see how this journey unfolds. 
 
 ## Projects
 
@@ -11,41 +15,46 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Freelance Artist & Ceramicist** (2003 to Present)  
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Sydenham Garden** (2021 to 2022)  
+_Art and Craft Project Assistant_
 
 - Any experience relevent to software development
 
+**The Conservatoire** (2006 to 2021)
+_Art Tutor_
+
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+I am able to communicate clearly by breaking down information into easily digestible chunks. I have learnt and developed this skill through my degree in History of Art; in my final dissertation I achieved a high first as a result of my ability to introduce, explain and analyse academic concepts. This has also been an important skill in my teaching, where I have demonstrated activities clearly, concisely and thoroughly so my students feel safe and confident to participate in the workshop. This has been especially necessary in my work teaching children and adults with learning disabilities.
 
-#### Another skill
+#### Fast Learner
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I find fulfilment in learning. I can learn new concepts and techniques in a systematic and thorough way, which enables me to apply what I have learnt. I am always improving and looking to develop my skills and expertise. I am also aware of how I learn best, giving me the ability to achieve highly in whatever I apply myself to. 
 
-#### Another skill
+Most recently I co-produced, shot and edited a film, learning how to use new equipment and software and creating a digital art piece, which is now on show at Royal Museums Greenwich.
 
+#### Problem Solver
+
+I love to solve problems. Whether it is in the new challenges and exercises being introduced at Makers, or simply playing sudoku on the train home. 
+
+In my ceramics practice, this is an integral part of creating functional work. Ceramics entails a long process, where each stage can introduce new problems into the final piece, from reclaiming clay, preparing the clay, throwing, firing, glazing and final firing. Each stage requires different skills and knowledge and if anything goes wrong it can have occurred at any one of these stages. This requires problem solving that involves researching materials, chemistry, analysing each step as well ask knowing when to step back and view the process as a whole. I love it. 
+
+#### Team Player
+
+In a group I am encouraging, positive and supportive. I have spent my life working with others, and I have seen the incredible outcomes that occur when people come together. I have run therapeutic art classes for people experiencing mental ill health and I have seen the benefits first hand of how positive group dynamics bring out the best in people and enable them to create in ways they would never have expected. In one such project the group went from almost no experience of painting, to creating a large scale group mural to be displayed outside Forest Hill Station. 
+
+#### Self Motivated
+
+As a freelance artist I have had to run every part of my business; producing new work, writing project proposals, applying for funding, liaising with other organisations and artists,  social media, administration, writing budgets, bookkeeping and filing end of year accounts. The work and experience I gain relies on my ability be self motivated and self directed. In order to have worked in the arts I have been able to manage these areas of my business to a high level.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March '23 to June '23)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -54,16 +63,18 @@ I honed my communication skills while completing my thesis at university, which 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### The University of Leeds (2009 to 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- History of Art
+- 1st Class Honors
+- Dissertation on Embodied Spectatorship in the Audio Visual Work of Pipilotti Rist
 
-#### Any other qualifications
+#### Putney High School (2006 to 2008)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Mathematics - A
+- History of Art - A
+- Fine Art & Design - A
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Cooking, eating, climbing, visiting exhibitions, reading, music, DJing, cycling, socialising
