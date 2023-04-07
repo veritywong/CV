@@ -22,10 +22,12 @@ I am ready for new challenges and eager to learn about tech, which is why I have
 **Sydenham Garden** (2021 to 2022)  
 _Art and Craft Project Assistant_
 
-- Any experience relevent to software development
+- Working well with others. Solving problems that occur and providing thoughtful solutions to challenges.
 
-**The Conservatoire** (2006 to 2021)
+**The Conservatoire** (2006 to 2021)  
 _Art Tutor_
+
+- Planning, running, and managing groups and assistants. 
 
 ## Skills
 
@@ -65,8 +67,7 @@ As a freelance artist I have had to run every part of my business; producing new
 
 #### The University of Leeds (2009 to 2013)
 
-- History of Art
-- 1st Class Honors
+- History of Art - 1st Class Honors
 - Dissertation on Embodied Spectatorship in the Audio Visual Work of Pipilotti Rist
 
 #### Putney High School (2006 to 2008)
