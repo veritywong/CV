@@ -16,6 +16,7 @@ I am ready for new challenges and eager to learn about tech, which is why I have
 ## Work Experience
 
 **Freelance Artist & Ceramicist** (2003 to Present)  
+_Artist_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
@@ -68,7 +69,7 @@ As a freelance artist I have had to run every part of my business; producing new
 #### The University of Leeds (2009 to 2013)
 
 - History of Art - 1st Class Honors
-- Dissertation on Embodied Spectatorship in the Audio Visual Work of Pipilotti Rist
+- Dissertation on _Embodied Spectatorship and the Audio Visual Work of Pipilotti Rist_
 
 #### Putney High School (2006 to 2008)
 
