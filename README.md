@@ -11,12 +11,12 @@ I have always held a deep curiosity to learn more about how our digital world is
 | Name                         | Description            | Tech/tools        |
 | ---------------------------- | ---------------------- | ----------------- |
 | **Flock**                    | A mobileapp that helps | React Native,     |  
-                               | groups of people decide| Jest, MongoDB,    |
-                               | what to do together    | Express, Node     |
-| **Acebook**                  | A web app that allows  |
+|                              | groups of people decide| Jest, MongoDB,    |
+|                              | what to do together    | Express, Node     |
+| **Acebook**                  | A web app that allows  |                   |
 |                              | users to like other    | ReactJS, Jest,    |
-|                              | users' posts, comment  | MongoDB, Express,
-|                              | on the post and have   | Cypress, Node
+|                              | users' posts, comment  | MongoDB, Express, |
+|                              | on the post and have   | Cypress, Node     |
 |                              | their own profile page.|                   |
 
 ## Work Experience
