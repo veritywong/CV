@@ -12,23 +12,39 @@ I have always held a deep curiosity to learn more about how our digital world is
 | ---| --- | --- |
 | **Flock** | A mobileapp that helps groups of people decide what to do together. | React Native, Jest, MongoDB, Express, Node |
 | **Acebook** | A web app that allows users to like other users' posts, comment on the post and have their own profile page. | ReactJS, Jest, MongoDB, Express, Cypress, Node |
+| **Chitter** | A webapp that allows people to see users posts in reverse chronological order, and allows a user to signup and login to create their own posts. | HTML, Ruby, RSpec, Sinatra, SQL, PosgreSQL |
 
-## Work Experience
+## Experience
 
+**Makers Academy** (April '23 to July '23)
+_Student_
+
+- Intensive Software Developer training with a focus on TDD, Agile working and pair programming.
+- Built full stack, fully tested web and mobile apps. First using Ruby and Sinatra then in React, Express and NodeJs, and React Native for the mobile app. Also used MongoDB and PostgreSQL for databases.
+- Learnt to collaborate with others when coding together and building new apps. Also the skills needed to understanding new languages, and the growth mindset necessary to develop understanding and progress.
+- OOP, TDD, MVC
+- Agile/XP
+- Ruby, JavaScript, NodeJS, SQL
+- RSpec, Jest, Cypress
+  
 **Freelance Artist & Ceramicist** (2003 to Present)  
 _Artist_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Ceramicist and artist as part of the art collective JIUN.
+- Requires independence as well as creative collaboration. Also the ability to learn new skills appropriate to the various projects. Ceramics requires excellent problem solving skills, and a continuous learning of new techniques. When firing work has ended up with certain glaze problems I have been able to locate the problem and adjust my methods to produce consistent and high level work.
 
 **Sydenham Garden** (2021 to 2022)  
 _Art and Craft Project Assistant_
 
-- Working well with others. Solving problems that occur and providing thoughtful solutions to challenges.
+- Planning, running and reviewing therapeutic workshops for people recovering from mental ill health.
+- Volunteer management and coordination, creating a supportive environment for volunteers, who continued volunteering from long periods of time.
+- Working well with others. Solving problems that occur and providing thoughtful solutions to challenges. Improved the mental health of participants, monitored through regular one to one reviews and questionnaires. 
 
 **The Conservatoire** (2006 to 2021)  
 _Art Tutor_
 
-- Planning, running, and managing groups and assistants. 
+- Planning, running, and managing groups and assistants.
+- Create a positive environment for learning and creativity, resuled in students returning every term and persuing art GCSE's and acheiving art scholarships.
 
 ## Skills
 
@@ -43,9 +59,9 @@ Most recently I co-produced, shot and edited a film, learning how to use new equ
 
 #### Problem Solver
 
-I love to solve problems. Whether it is in the new challenges and exercises being introduced at Makers, or simply playing sudoku on the train home. 
+I love to solve problems. Whether it is in the new challenges and exercises introduced at Makers and in writing code, or simply playing sudoku on the train home. 
 
-In my ceramics practice, this is an integral part of creating functional work. Ceramics entails a long process, where each stage can introduce new problems into the final piece, from reclaiming clay, preparing the clay, throwing, firing, glazing and final firing. Each stage requires different skills and knowledge and if anything goes wrong it can have occurred at any one of these stages. This requires problem solving that involves researching materials, chemistry, analysing each step as well ask knowing when to step back and view the process as a whole. I love it. 
+In my ceramics practice, this is an integral part of creating functional work. Ceramics entails a long process, where each stage can introduce new problems into the final piece, from reclaiming clay, preparing the clay, throwing, firing, glazing and final firing. Each step requires different skills and knowledge and if anything goes wrong it can have occurred at any one of these stages. This requires problem solving that involves researching materials, chemistry, analysing each step as well ask knowing when to step back and view the process as a whole. I love it. 
 
 #### Team Player
 
@@ -53,18 +69,9 @@ In a group I am encouraging, positive and supportive. I have spent my life worki
 
 #### Self Motivated
 
-As a freelance artist I have had to run every part of my business; producing new work, writing project proposals, applying for funding, liaising with other organisations and artists,  social media, administration, writing budgets, bookkeeping and filing end of year accounts. The work and experience I gain relies on my ability be self motivated and self directed. In order to have worked in the arts I have been able to manage these areas of my business to a high level.
+As a freelance artist I have had to run every part of my business; producing new work, writing project proposals, liaising with other organisations and artists,  social media, administration, writing budgets, bookkeeping and filing end of year accounts. The work and experience I gain relies on my ability be self motivated and self directed. In order to have worked in the arts I have been able to manage these areas of my business to a high level.
 
 ## Education
-
-#### Makers Academy (March '23 to June '23)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
 #### The University of Leeds (2009 to 2013)
 
