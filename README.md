@@ -4,14 +4,20 @@ I am an aspirational software developer, artist, ceramicist; a maker with a pass
 
 I have spent the past 10 years building my career in the arts, through teaching, workshop facilitation, leading community projects, teaching myself to become a professional ceramicist and co-founding a successful art collective. 
 
-I am ready for new challenges and eager to learn about tech, which is why I have enrolled in the Makers course. I am excited to see how this journey unfolds. 
+I have always held a deep curiosity to learn more about how our digital world is created, spurring me on to pursue this as my career.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description            | Tech/tools        |
+| ---------------------------- | ---------------------- | ----------------- |
+| **Flock**                    | A mobileapp that helps | React Native,     |  
+                               | groups of people decide| Jest, MongoDB,    |
+                               | what to do together    | Express, Node     |
+| **Acebook**                  | A web app that allows  |
+|                              | users to like other    | ReactJS, Jest,    |
+|                              | users' posts, comment  | MongoDB, Express,
+|                              | on the post and have   | Cypress, Node
+|                              | their own profile page.|                   |
 
 ## Work Experience
 
