@@ -8,14 +8,10 @@ I have always held a deep curiosity to learn more about how our digital world is
 
 ## Projects
 
-| Name                         | Description            | Tech/tools        |
-| ---------------------------- | ---------------------- | ----------------- |
-| **Flock**                    | A mobileapp that helps groups of people decide what to do together. | React Native, Jest, MongoDB, Express, Node |
-| **Acebook**                  | A web app that allows  |                   |
-|                              | users to like other    | ReactJS, Jest,    |
-|                              | users' posts, comment  | MongoDB, Express, |
-|                              | on the post and have   | Cypress, Node     |
-|                              | their own profile page.|                   |
+| Name | Description | Tech/tools |
+| ---| --- | --- |
+| **Flock** | A mobileapp that helps groups of people decide what to do together. | React Native, Jest, MongoDB, Express, Node |
+| **Acebook** | A web app that allows users to like other users' posts, comment on the post and have their own profile page. | ReactJS, Jest, MongoDB, Express, Cypress, Node |
 
 ## Work Experience
 
