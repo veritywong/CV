@@ -1,8 +1,6 @@
 ## Verity Wong
 
-I am an aspirational software developer, artist, ceramicist; a maker with a passion for learning how things work and using this knowledge to create through collaboration. 
-
-I have spent the past 10 years building my career in the arts, through teaching, workshop facilitation, leading community projects, teaching myself to become a professional ceramicist and co-founding a successful art collective. 
+I am an aspirational software developer, artist, ceramicist; a maker with a passion for learning how things work and using this knowledge to create through collaboration.  
 
 I have always held a deep curiosity to learn more about how our digital world is created, spurring me on to pursue this as my career.
 
@@ -37,14 +35,14 @@ _Artist_
 _Art and Craft Project Assistant_
 
 - Planning, running and reviewing therapeutic workshops for people recovering from mental ill health.
-- Volunteer management and coordination, creating a supportive environment for volunteers, who continued volunteering from long periods of time.
+- Volunteer management and coordination, creating a supportive environment for volunteers, who continued volunteering for long periods of time.
 - Working well with others. Solving problems that occur and providing thoughtful solutions to challenges. Improved the mental health of participants, monitored through regular one to one reviews and questionnaires. 
 
 **The Conservatoire** (2006 to 2021)  
 _Art Tutor_
 
 - Planning, running, and managing groups and assistants.
-- Create a positive environment for learning and creativity, resuled in students returning every term and persuing art GCSE's and acheiving art scholarships.
+- Create a positive environment for learning and creativity, resulted in students returning every term and persuing art GCSE's and acheiving art scholarships.
 
 ## Skills
 
