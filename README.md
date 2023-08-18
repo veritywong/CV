@@ -1,14 +1,12 @@
 ## Verity Wong
 
-I am an aspirational software developer, artist, ceramicist; a maker with a passion for learning how things work and using this knowledge to create through collaboration.  
-
-I have always held a deep curiosity to learn more about how our digital world is created, spurring me on to pursue this as my career.
+Software Developer, artist, ceramicist; my lifelong passion for learning and a curiosity for how things work has led me to a new career in tech. I am both an analytical and creative thinker with a love of problem solving; coding has given me the opportunity to work to these skills and strengths. I am looking for a job as a junior developer, to bring my enthusiasm and developing skills to this exciting field.
 
 ## Projects
 
 | Name | Description | Tech/tools |
 | ---| --- | --- |
-| **Flock** | A mobileapp that helps groups of people decide what to do together. | React Native, Jest, MongoDB, Express, Node |
+| **Flock** | Mobile web app that provides a tinder-like swipe and match function to help decide activities to do with friends. Group project following Agile  methodologies. | React Native, Jest, MongoDB, Express, Node, third party APIs |
 | **Acebook** | A web app that allows users to like other users' posts, comment on the post and have their own profile page. | ReactJS, Jest, MongoDB, Express, Cypress, Node |
 | **Chitter** | A webapp that allows people to see users posts in reverse chronological order, and allows a user to signup and login to create their own posts. | HTML, Ruby, RSpec, Sinatra, SQL, PosgreSQL |
 
@@ -17,9 +15,10 @@ I have always held a deep curiosity to learn more about how our digital world is
 **Makers Academy** (April '23 to July '23)
 _Student_
 
-- Intensive Software Developer training with a focus on TDD, Agile working and pair programming.
-- Built full stack, fully tested web and mobile apps. First using Ruby and Sinatra then in React, Express and NodeJs, and React Native for the mobile app. Also used MongoDB and PostgreSQL for databases.
-- Learnt to collaborate with others when coding together and building new apps. Also the skills needed to understanding new languages, and the growth mindset necessary to develop understanding and progress.
+- An intensive and immersive coding bootcamp, teaching the fundamentals of building, testing, debugging and refactoring to create full stack web apps. 
+- Test driven development has taught me a clear and systematic way to approach code, starting with the simplest aspects of a given programme and building the complexity from there. It has resulted in clean and efficient code.
+- Growth mindset has been a key factor in the learning process, and has enabled me to learn new concepts and languages effectively during the course. The opportunities for constant learning have been hugely enjoyable and exciting.
+- Pair programming and group projects using Agile methodologies have been an important part of the course. Excellent communication and positive collaboration have been important, allowing for good ticket creation and a cohesive and shared approach to building the apps. It also developed my skills using Git and Github to ensure good systems for merging new functions.
 - OOP, TDD, MVC
 - Agile/XP
 - Ruby, JavaScript, NodeJS, SQL
@@ -28,21 +27,26 @@ _Student_
 **Freelance Artist & Ceramicist** (2003 to Present)  
 _Artist_
 
-- Ceramicist and artist as part of the art collective JIUN.
-- Requires independence as well as creative collaboration. Also the ability to learn new skills appropriate to the various projects. Ceramics requires excellent problem solving skills, and a continuous learning of new techniques. When firing work has ended up with certain glaze problems I have been able to locate the problem and adjust my methods to produce consistent and high level work.
+- Ceramicist - Excellent planning and organising in order to run a workshop space, which includes buying materials, maintaining equipment, creating work, firing and glazing.
+- Ceramics requires excellent problem solving skills, and a continuous learning of new techniques. When completed work has ended up with certain glaze problems I have been able to locate the source of the error and adjust my methods to produce consistently high level work.
+- Artist as part of the art collective JIUN. Collaborative working, excellent communication skills and learning new processes necessary for different projects. Most recently we created and edited a film for the first time, which is now exhibited at the Royal Museums Greenwich.
+
 
 **Sydenham Garden** (2021 to 2022)  
 _Art and Craft Project Assistant_
 
 - Planning, running and reviewing therapeutic workshops for people recovering from mental ill health.
-- Volunteer management and coordination, creating a supportive environment for volunteers, who continued volunteering for long periods of time.
-- Working well with others. Solving problems that occur and providing thoughtful solutions to challenges. Improved the mental health of participants, monitored through regular one to one reviews and questionnaires. 
+- Volunteer management and coordination, creating a supportive environment for volunteers, maintained a brilliant team of committed volunteers.
+- Excellent interpersonal skills; solving problems that occur and providing thoughtful solutions to challenges. Improved the mental health of participants, monitored through regular one to one reviews and questionnaires.
+
 
 **The Conservatoire** (2006 to 2021)  
 _Art Tutor_
 
-- Planning, running, and managing groups and assistants.
-- Create a positive environment for learning and creativity, resulted in students returning every term and persuing art GCSE's and acheiving art scholarships.
+- Teaching and developing art classes for children and young people.
+- Planning and creative ideation to think of interesting workshops that would suit a range of ages and abilities.
+- Required excellent communication and problem solving skills when working with children with different learning needs. I was able to work with these children well, with children returning every term to my classes.
+
 
 ## Skills
 
@@ -59,7 +63,7 @@ Most recently I co-produced, shot and edited a film, learning how to use new equ
 
 I love to solve problems. Whether it is in the new challenges and exercises introduced at Makers and in writing code, or simply playing sudoku on the train home. 
 
-In my ceramics practice, this is an integral part of creating functional work. Ceramics entails a long process, where each stage can introduce new problems into the final piece, from reclaiming clay, preparing the clay, throwing, firing, glazing and final firing. Each step requires different skills and knowledge and if anything goes wrong it can have occurred at any one of these stages. This requires problem solving that involves researching materials, chemistry, analysing each step as well ask knowing when to step back and view the process as a whole. I love it. 
+In my ceramics practice, this is an integral part of creating functional work. Ceramics entails a long process, where each stage can introduce new problems into the final piece, from reclaiming clay, preparing the clay, throwing, firing, glazing and final firing. Each step requires different skills and knowledge and if anything goes wrong it can have occurred at any one of these stages. This requires problem solving that involves researching materials, analysing each step as well ask knowing when to step back and view the process as a whole. I love it. 
 
 #### Team Player
 
@@ -84,4 +88,4 @@ As a freelance artist I have had to run every part of my business; producing new
 
 ## Hobbies
 
-Cooking, eating, climbing, visiting exhibitions, reading, music, DJing, cycling, socialising
+Cooking, eating, climbing, visiting exhibitions, reading, music, cycling, socialising
