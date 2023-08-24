@@ -24,7 +24,7 @@ _Student_
 - Ruby, JavaScript, NodeJS, SQL
 - RSpec, Jest, Cypress
   
-**Freelance Artist & Ceramicist** (2003 to Present)  
+**Freelance Artist & Ceramicist** (2014 to Present)  
 _Artist_
 
 - Ceramicist - Excellent planning and organising in order to run a workshop space, which includes buying materials, maintaining equipment, creating work, firing and glazing.
