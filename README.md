@@ -12,7 +12,7 @@ Software Developer, artist, ceramicist; my lifelong passion for learning and a c
 
 ## Experience
 
-** Software Developer Student, Makers Academy, April '23 to July '23 ** 
+**Software Developer Student, Makers Academy** (April '23 to July '23) 
 
 - An intensive and immersive 16 week coding bootcamp, teaching the fundamentals of building, testing, debugging and refactoring to create full stack web apps. 
 - TDD has taught me a clear and systematic way to approach code, starting with the simplest aspects of a given programme and building the complexity from there. It has resulted in clean and efficient code.
